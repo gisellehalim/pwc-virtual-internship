@@ -1,0 +1,27 @@
+Dear Mr. Engagement Partner,
+
+I'm writing to share some key findings from my analysis of customer churn.
+
+Key Findings:
+
+Tenure: I observed a strong correlation between shorter subscription periods (< 1 year) and higher churn rates. This suggests that customers who sign up for shorter terms are more likely to cancel their service.
+Service Type: Fiber optic internet and phone service experience the highest churn rates compared to other services offered.
+Payment Method: Customers using electronic checks and paperless billing have a significantly higher churn rate compared to other payment methods.
+Customer Complaints: A majority of churning customers have filed at least one tech ticket, suggesting dissatisfaction with the service or technology.
+
+Recommendations:
+
+Based on these findings, I recommend focusing on the following areas:
+
+Develop strategies to retain customers with shorter subscriptions. This could involve offering incentives like discounts or loyalty programs for longer commitments.
+Investigate the reasons behind the high churn rates in fiber optic internet and phone service. This might involve analyzing customer feedback, service performance metrics, or competitor offerings.
+Further investigate the link between electronic check payments, paperless billing and churn. Analyze customer demographics and explore reasons for this correlation.
+Prioritize improving the technology and service quality. Addressing customer complaints and ensuring smooth service delivery can significantly reduce churn.
+
+I believe these recommendations will help us develop a comprehensive strategy to address customer churn and improve customer retention across all service types and payment methods.
+
+Thank you for your time and consideration.
+
+Sincerely,
+
+Giselle
